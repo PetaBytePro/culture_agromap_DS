@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  my-h2o-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./
+    ports:
+      - "54321:54321"
+    environment:
+      - H2O_NTHREADS=-1

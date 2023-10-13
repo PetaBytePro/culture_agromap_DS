@@ -1,0 +1,3742 @@
+[
+    {
+        "id_contour": 1,
+        "polygon": {
+            "x": 41.18522108969622,
+            "y": 74.78070187370753
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 2,
+        "polygon": {
+            "x": 41.20351368655024,
+            "y": 74.76352345565748
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 3,
+        "polygon": {
+            "x": 41.20610450529142,
+            "y": 74.74400594433206
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 4,
+        "polygon": {
+            "x": 41.18345587881305,
+            "y": 74.74553883588315
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 5,
+        "polygon": {
+            "x": 41.17341330416952,
+            "y": 74.7635236268069
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 6,
+        "polygon": {
+            "x": 41.179528766450595,
+            "y": 74.78374240531649
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 7,
+        "polygon": {
+            "x": 41.224518387951164,
+            "y": 74.77310440703677
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 8,
+        "polygon": {
+            "x": 41.18315845743607,
+            "y": 74.77408501668923
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 9,
+        "polygon": {
+            "x": 41.21121296552652,
+            "y": 74.77784691262379
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 10,
+        "polygon": {
+            "x": 41.176755712851566,
+            "y": 74.73558566202384
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 11,
+        "polygon": {
+            "x": 41.19786589506479,
+            "y": 74.76736576661574
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 12,
+        "polygon": {
+            "x": 41.22486542700623,
+            "y": 74.7813749568808
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 13,
+        "polygon": {
+            "x": 41.204040740093774,
+            "y": 74.74927282283485
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 14,
+        "polygon": {
+            "x": 41.2025639048454,
+            "y": 74.78605650467836
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 15,
+        "polygon": {
+            "x": 41.20692186232835,
+            "y": 74.75595401424604
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 16,
+        "polygon": {
+            "x": 41.215822409376436,
+            "y": 74.77905674387307
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 17,
+        "polygon": {
+            "x": 41.21340690075164,
+            "y": 74.78356464013257
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 18,
+        "polygon": {
+            "x": 41.19889210511811,
+            "y": 74.77546874460135
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 19,
+        "polygon": {
+            "x": 41.21565482644799,
+            "y": 74.74919954126177
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 20,
+        "polygon": {
+            "x": 41.226429121238525,
+            "y": 74.7657510045022
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 21,
+        "polygon": {
+            "x": 41.20160240804697,
+            "y": 74.74700478036956
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 22,
+        "polygon": {
+            "x": 41.19757303480551,
+            "y": 74.73690768140293
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 23,
+        "polygon": {
+            "x": 41.21115507101991,
+            "y": 74.78102358628657
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 24,
+        "polygon": {
+            "x": 41.19411213138458,
+            "y": 74.765434737306
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 25,
+        "polygon": {
+            "x": 41.18399819450522,
+            "y": 74.75848372559085
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 26,
+        "polygon": {
+            "x": 41.19536115406856,
+            "y": 74.7669926592852
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 27,
+        "polygon": {
+            "x": 41.21101204339235,
+            "y": 74.78126484453884
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 28,
+        "polygon": {
+            "x": 41.222253185532615,
+            "y": 74.77066803205278
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 29,
+        "polygon": {
+            "x": 41.18167395595041,
+            "y": 74.74807466464273
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 30,
+        "polygon": {
+            "x": 41.18182984083299,
+            "y": 74.77261628884177
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 31,
+        "polygon": {
+            "x": 41.21593817786226,
+            "y": 74.76275111130278
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 32,
+        "polygon": {
+            "x": 41.21085227185418,
+            "y": 74.74644764005288
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 33,
+        "polygon": {
+            "x": 41.181818796077984,
+            "y": 74.75211931496143
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 34,
+        "polygon": {
+            "x": 41.182879753258185,
+            "y": 74.77984423604211
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 35,
+        "polygon": {
+            "x": 41.20596747919989,
+            "y": 74.74524223792783
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 36,
+        "polygon": {
+            "x": 41.18341994813632,
+            "y": 74.76117028171433
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 37,
+        "polygon": {
+            "x": 41.209311367556,
+            "y": 74.7816327406998
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 38,
+        "polygon": {
+            "x": 41.19642696280779,
+            "y": 74.73601923123707
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 39,
+        "polygon": {
+            "x": 41.183166377798116,
+            "y": 74.76625336723168
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 40,
+        "polygon": {
+            "x": 41.21847419923226,
+            "y": 74.770210252132
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 41,
+        "polygon": {
+            "x": 41.22638989653872,
+            "y": 74.75882590639061
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 42,
+        "polygon": {
+            "x": 41.215942763309435,
+            "y": 74.77908913054394
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 43,
+        "polygon": {
+            "x": 41.183701821635694,
+            "y": 74.7693838998943
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 44,
+        "polygon": {
+            "x": 41.19567043262543,
+            "y": 74.73839412450342
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 45,
+        "polygon": {
+            "x": 41.19527081607949,
+            "y": 74.78610861670371
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 46,
+        "polygon": {
+            "x": 41.215731533678245,
+            "y": 74.75557785621167
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 47,
+        "polygon": {
+            "x": 41.186283043871285,
+            "y": 74.75675884600548
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 48,
+        "polygon": {
+            "x": 41.20388179781951,
+            "y": 74.74388398165317
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 49,
+        "polygon": {
+            "x": 41.222866993504255,
+            "y": 74.75002777090555
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 50,
+        "polygon": {
+            "x": 41.21902293352651,
+            "y": 74.77401681873863
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 51,
+        "polygon": {
+            "x": 41.173222279117525,
+            "y": 74.77751530353864
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 52,
+        "polygon": {
+            "x": 41.173260247239014,
+            "y": 74.78369933221892
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 53,
+        "polygon": {
+            "x": 41.20897120354121,
+            "y": 74.75298329475851
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 54,
+        "polygon": {
+            "x": 41.224928398268176,
+            "y": 74.73381116725092
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 55,
+        "polygon": {
+            "x": 41.222097120773014,
+            "y": 74.75137960551778
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 56,
+        "polygon": {
+            "x": 41.177908610821696,
+            "y": 74.7464972003131
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 57,
+        "polygon": {
+            "x": 41.22345111925621,
+            "y": 74.7410625188827
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 58,
+        "polygon": {
+            "x": 41.204637437906534,
+            "y": 74.77348987956617
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 59,
+        "polygon": {
+            "x": 41.2152455810738,
+            "y": 74.73636886461965
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 60,
+        "polygon": {
+            "x": 41.177313919538456,
+            "y": 74.7570942169604
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 61,
+        "polygon": {
+            "x": 41.220423571414976,
+            "y": 74.75724934651116
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 62,
+        "polygon": {
+            "x": 41.17321338097519,
+            "y": 74.7742330496489
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 63,
+        "polygon": {
+            "x": 41.18568029581916,
+            "y": 74.776976987598
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 64,
+        "polygon": {
+            "x": 41.17814543463583,
+            "y": 74.74337397988924
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 65,
+        "polygon": {
+            "x": 41.18825118566056,
+            "y": 74.7486136270775
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 66,
+        "polygon": {
+            "x": 41.17378784535968,
+            "y": 74.77104851300646
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 67,
+        "polygon": {
+            "x": 41.195452113009885,
+            "y": 74.7501641837367
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 68,
+        "polygon": {
+            "x": 41.20043471707543,
+            "y": 74.74643702301776
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 69,
+        "polygon": {
+            "x": 41.19882873738443,
+            "y": 74.77176150670111
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 70,
+        "polygon": {
+            "x": 41.184341617479035,
+            "y": 74.7489038192894
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 71,
+        "polygon": {
+            "x": 41.197111694468084,
+            "y": 74.74356060245937
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 72,
+        "polygon": {
+            "x": 41.21107213348944,
+            "y": 74.76280415895714
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 73,
+        "polygon": {
+            "x": 41.20197936085896,
+            "y": 74.75423845537706
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 74,
+        "polygon": {
+            "x": 41.20197168288299,
+            "y": 74.76684219023224
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 75,
+        "polygon": {
+            "x": 41.21747806198411,
+            "y": 74.73580679361686
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 76,
+        "polygon": {
+            "x": 41.18954110834789,
+            "y": 74.75361808840859
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 77,
+        "polygon": {
+            "x": 41.19153194084128,
+            "y": 74.74463355071647
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 78,
+        "polygon": {
+            "x": 41.18843733847953,
+            "y": 74.7609590874224
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 79,
+        "polygon": {
+            "x": 41.19884274555301,
+            "y": 74.75455804936205
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 80,
+        "polygon": {
+            "x": 41.21857128521768,
+            "y": 74.74337986343494
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 81,
+        "polygon": {
+            "x": 41.207337624258436,
+            "y": 74.74847962793355
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 82,
+        "polygon": {
+            "x": 41.2056126812461,
+            "y": 74.73359780754171
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 83,
+        "polygon": {
+            "x": 41.19385014394326,
+            "y": 74.76445440811243
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 84,
+        "polygon": {
+            "x": 41.21390443397436,
+            "y": 74.74814593310253
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 85,
+        "polygon": {
+            "x": 41.192058472782826,
+            "y": 74.73528285658699
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 86,
+        "polygon": {
+            "x": 41.213163020642256,
+            "y": 74.76118040197993
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 87,
+        "polygon": {
+            "x": 41.183085356265224,
+            "y": 74.74258132801681
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 88,
+        "polygon": {
+            "x": 41.22561874980802,
+            "y": 74.73927373340564
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 89,
+        "polygon": {
+            "x": 41.19101216803189,
+            "y": 74.78396766694324
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 90,
+        "polygon": {
+            "x": 41.19598123112858,
+            "y": 74.78194760877507
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 91,
+        "polygon": {
+            "x": 41.195472595083615,
+            "y": 74.74975131462685
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 92,
+        "polygon": {
+            "x": 41.2164231704937,
+            "y": 74.77671435224487
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 93,
+        "polygon": {
+            "x": 41.221227604404014,
+            "y": 74.75617648399805
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 94,
+        "polygon": {
+            "x": 41.2009377768343,
+            "y": 74.75556466894709
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 95,
+        "polygon": {
+            "x": 41.20406996954074,
+            "y": 74.74595364969359
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 96,
+        "polygon": {
+            "x": 41.21876090075624,
+            "y": 74.74112202182727
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 97,
+        "polygon": {
+            "x": 41.19777503025842,
+            "y": 74.75409566601533
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 98,
+        "polygon": {
+            "x": 41.21894646390283,
+            "y": 74.77468974118493
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 99,
+        "polygon": {
+            "x": 41.22651891039277,
+            "y": 74.74397506023807
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 100,
+        "polygon": {
+            "x": 41.19463941801785,
+            "y": 74.74940800344682
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 101,
+        "polygon": {
+            "x": 41.17401609230049,
+            "y": 74.749832313746
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 102,
+        "polygon": {
+            "x": 41.22383587866525,
+            "y": 74.74012383931759
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 103,
+        "polygon": {
+            "x": 41.19543917206469,
+            "y": 74.78352804566741
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 104,
+        "polygon": {
+            "x": 41.173208512751856,
+            "y": 74.78662429687283
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 105,
+        "polygon": {
+            "x": 41.209527945296095,
+            "y": 74.77602691213427
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 106,
+        "polygon": {
+            "x": 41.17747048218128,
+            "y": 74.77470687778619
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 107,
+        "polygon": {
+            "x": 41.22076318125318,
+            "y": 74.74447807094231
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 108,
+        "polygon": {
+            "x": 41.22041799199783,
+            "y": 74.7777126074668
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 109,
+        "polygon": {
+            "x": 41.176818791697315,
+            "y": 74.74469501910696
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 110,
+        "polygon": {
+            "x": 41.18348208672541,
+            "y": 74.74642819956618
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 111,
+        "polygon": {
+            "x": 41.18198741188181,
+            "y": 74.73726675295309
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 112,
+        "polygon": {
+            "x": 41.198714338628484,
+            "y": 74.77475708275779
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 113,
+        "polygon": {
+            "x": 41.21695178711043,
+            "y": 74.75432194862562
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 114,
+        "polygon": {
+            "x": 41.202136723217926,
+            "y": 74.75418148570992
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 115,
+        "polygon": {
+            "x": 41.19859946861604,
+            "y": 74.7650183702858
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 116,
+        "polygon": {
+            "x": 41.17897869474606,
+            "y": 74.76603132884357
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 117,
+        "polygon": {
+            "x": 41.2251264465342,
+            "y": 74.75227724621455
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 118,
+        "polygon": {
+            "x": 41.21785299385491,
+            "y": 74.7362890299127
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 119,
+        "polygon": {
+            "x": 41.20095482441886,
+            "y": 74.74332222651938
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 120,
+        "polygon": {
+            "x": 41.225832329263376,
+            "y": 74.78354746114579
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 121,
+        "polygon": {
+            "x": 41.181077836388326,
+            "y": 74.76182790309848
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 122,
+        "polygon": {
+            "x": 41.21277532708601,
+            "y": 74.78013270025896
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 123,
+        "polygon": {
+            "x": 41.183676425914605,
+            "y": 74.73737986747211
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 124,
+        "polygon": {
+            "x": 41.22665301851137,
+            "y": 74.75721382500959
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 125,
+        "polygon": {
+            "x": 41.20195445888463,
+            "y": 74.77004362661793
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 126,
+        "polygon": {
+            "x": 41.19641707835315,
+            "y": 74.75351226023011
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 127,
+        "polygon": {
+            "x": 41.21590903825972,
+            "y": 74.76607313913425
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 128,
+        "polygon": {
+            "x": 41.17901009901842,
+            "y": 74.74683350126733
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 129,
+        "polygon": {
+            "x": 41.22399897024078,
+            "y": 74.74478782771288
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 130,
+        "polygon": {
+            "x": 41.184319571392315,
+            "y": 74.76830190422089
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 131,
+        "polygon": {
+            "x": 41.20538256631807,
+            "y": 74.7593438490171
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 132,
+        "polygon": {
+            "x": 41.20113819227914,
+            "y": 74.77057836706577
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 133,
+        "polygon": {
+            "x": 41.17635459986555,
+            "y": 74.73798975922199
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 134,
+        "polygon": {
+            "x": 41.20305692142136,
+            "y": 74.75044763086957
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 135,
+        "polygon": {
+            "x": 41.21188367228992,
+            "y": 74.73607566774444
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 136,
+        "polygon": {
+            "x": 41.18116690884966,
+            "y": 74.74427245418774
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 137,
+        "polygon": {
+            "x": 41.18552128137891,
+            "y": 74.75261769420405
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 138,
+        "polygon": {
+            "x": 41.19535497926739,
+            "y": 74.77713235365565
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 139,
+        "polygon": {
+            "x": 41.218381785034424,
+            "y": 74.75628255312151
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 140,
+        "polygon": {
+            "x": 41.21530276339008,
+            "y": 74.75637151565857
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 141,
+        "polygon": {
+            "x": 41.19900768529439,
+            "y": 74.76957044530948
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 142,
+        "polygon": {
+            "x": 41.22557864863181,
+            "y": 74.73676082122925
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 143,
+        "polygon": {
+            "x": 41.204409923582006,
+            "y": 74.75689342172744
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 144,
+        "polygon": {
+            "x": 41.202282080036284,
+            "y": 74.76562365241699
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 145,
+        "polygon": {
+            "x": 41.20893942380669,
+            "y": 74.76671561861555
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 146,
+        "polygon": {
+            "x": 41.22665083371559,
+            "y": 74.76924401954598
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 147,
+        "polygon": {
+            "x": 41.20787637204183,
+            "y": 74.74861274055564
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 148,
+        "polygon": {
+            "x": 41.2118847428958,
+            "y": 74.77636677901081
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 149,
+        "polygon": {
+            "x": 41.19141349167877,
+            "y": 74.78111297431529
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 150,
+        "polygon": {
+            "x": 41.20514437462153,
+            "y": 74.75648459306097
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 151,
+        "polygon": {
+            "x": 41.19559936307818,
+            "y": 74.7344490428136
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 152,
+        "polygon": {
+            "x": 41.17695504007516,
+            "y": 74.76035116070476
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 153,
+        "polygon": {
+            "x": 41.2150707761183,
+            "y": 74.75817176600772
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 154,
+        "polygon": {
+            "x": 41.18969166383151,
+            "y": 74.78356698047926
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 155,
+        "polygon": {
+            "x": 41.17426045255139,
+            "y": 74.74013647113105
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 156,
+        "polygon": {
+            "x": 41.199869463225696,
+            "y": 74.7860450930589
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 157,
+        "polygon": {
+            "x": 41.18344935455414,
+            "y": 74.78651465167445
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 158,
+        "polygon": {
+            "x": 41.17884937700345,
+            "y": 74.75428982280769
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 159,
+        "polygon": {
+            "x": 41.21661946909464,
+            "y": 74.73836542144919
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 160,
+        "polygon": {
+            "x": 41.22117343220533,
+            "y": 74.74066429041478
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 161,
+        "polygon": {
+            "x": 41.192069630109955,
+            "y": 74.77672705007369
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 162,
+        "polygon": {
+            "x": 41.212147656318876,
+            "y": 74.77527963273518
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 163,
+        "polygon": {
+            "x": 41.22485607545532,
+            "y": 74.76284632019868
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 164,
+        "polygon": {
+            "x": 41.211293548245756,
+            "y": 74.7550713440364
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 165,
+        "polygon": {
+            "x": 41.17363192559807,
+            "y": 74.78126574931386
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 166,
+        "polygon": {
+            "x": 41.179791574774036,
+            "y": 74.76209176269033
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 167,
+        "polygon": {
+            "x": 41.193507790903936,
+            "y": 74.74991170240355
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 168,
+        "polygon": {
+            "x": 41.18250967708662,
+            "y": 74.73454175473543
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 169,
+        "polygon": {
+            "x": 41.205252023153676,
+            "y": 74.78271460997694
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 170,
+        "polygon": {
+            "x": 41.191821480323,
+            "y": 74.77525245784697
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 171,
+        "polygon": {
+            "x": 41.20689094514912,
+            "y": 74.7759841370012
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 172,
+        "polygon": {
+            "x": 41.21119733660382,
+            "y": 74.75347198205546
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 173,
+        "polygon": {
+            "x": 41.21772766345073,
+            "y": 74.77105368739657
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 174,
+        "polygon": {
+            "x": 41.20659159574907,
+            "y": 74.74579225224322
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 175,
+        "polygon": {
+            "x": 41.22168873977968,
+            "y": 74.75883149201199
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 176,
+        "polygon": {
+            "x": 41.2267786221242,
+            "y": 74.74782848789295
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 177,
+        "polygon": {
+            "x": 41.216848419273965,
+            "y": 74.74152756821604
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 178,
+        "polygon": {
+            "x": 41.21582992951345,
+            "y": 74.73564601984607
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 179,
+        "polygon": {
+            "x": 41.18144452322492,
+            "y": 74.7636686340817
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 180,
+        "polygon": {
+            "x": 41.18374960021692,
+            "y": 74.74905677922794
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 181,
+        "polygon": {
+            "x": 41.178269571501374,
+            "y": 74.73356348818268
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 182,
+        "polygon": {
+            "x": 41.17512342051824,
+            "y": 74.74061299322875
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 183,
+        "polygon": {
+            "x": 41.190558104079464,
+            "y": 74.7801065657586
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 184,
+        "polygon": {
+            "x": 41.210294312529996,
+            "y": 74.7837803690513
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 185,
+        "polygon": {
+            "x": 41.225647465711816,
+            "y": 74.73883837775307
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 186,
+        "polygon": {
+            "x": 41.20620376621664,
+            "y": 74.75468299960973
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 187,
+        "polygon": {
+            "x": 41.22266414821926,
+            "y": 74.76323008348817
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 188,
+        "polygon": {
+            "x": 41.20922597684763,
+            "y": 74.77713305337628
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 189,
+        "polygon": {
+            "x": 41.217956875969996,
+            "y": 74.73799322790563
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 190,
+        "polygon": {
+            "x": 41.20226778020112,
+            "y": 74.74589676522268
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 191,
+        "polygon": {
+            "x": 41.183203750199155,
+            "y": 74.7541717132696
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 192,
+        "polygon": {
+            "x": 41.201624225879996,
+            "y": 74.75071030046429
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 193,
+        "polygon": {
+            "x": 41.175866677183706,
+            "y": 74.78469832372552
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 194,
+        "polygon": {
+            "x": 41.21004449417597,
+            "y": 74.73668524987067
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 195,
+        "polygon": {
+            "x": 41.22238544887766,
+            "y": 74.76235171626347
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 196,
+        "polygon": {
+            "x": 41.21455453743382,
+            "y": 74.76082288260334
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 197,
+        "polygon": {
+            "x": 41.180559660166296,
+            "y": 74.74360006652068
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 198,
+        "polygon": {
+            "x": 41.20554929165971,
+            "y": 74.77603308831834
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 199,
+        "polygon": {
+            "x": 41.21756343129627,
+            "y": 74.76763976621653
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 200,
+        "polygon": {
+            "x": 41.22395864349458,
+            "y": 74.7457876884749
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 201,
+        "polygon": {
+            "x": 41.186235785901204,
+            "y": 74.7691124820827
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 202,
+        "polygon": {
+            "x": 41.21214255915703,
+            "y": 74.7762653280839
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 203,
+        "polygon": {
+            "x": 41.196755301515054,
+            "y": 74.77667154657071
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 204,
+        "polygon": {
+            "x": 41.20770018590234,
+            "y": 74.73985096890824
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 205,
+        "polygon": {
+            "x": 41.206469899599306,
+            "y": 74.7701908232017
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 206,
+        "polygon": {
+            "x": 41.17670736129315,
+            "y": 74.76622006310986
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 207,
+        "polygon": {
+            "x": 41.189516567614675,
+            "y": 74.7763380329999
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 208,
+        "polygon": {
+            "x": 41.1863184409402,
+            "y": 74.77284373935913
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 209,
+        "polygon": {
+            "x": 41.17399357598133,
+            "y": 74.77223355033644
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 210,
+        "polygon": {
+            "x": 41.20584480735259,
+            "y": 74.78688268403427
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 211,
+        "polygon": {
+            "x": 41.1964912274119,
+            "y": 74.76509126820525
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 212,
+        "polygon": {
+            "x": 41.1858972986133,
+            "y": 74.75281379294408
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 213,
+        "polygon": {
+            "x": 41.218755014870844,
+            "y": 74.78504925160863
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 214,
+        "polygon": {
+            "x": 41.212090965408045,
+            "y": 74.77521032475443
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 215,
+        "polygon": {
+            "x": 41.20660855833148,
+            "y": 74.77038570085291
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 216,
+        "polygon": {
+            "x": 41.22567269824366,
+            "y": 74.78123115166404
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 217,
+        "polygon": {
+            "x": 41.18614857419956,
+            "y": 74.76779827447069
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 218,
+        "polygon": {
+            "x": 41.202585313851294,
+            "y": 74.73647559018808
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 219,
+        "polygon": {
+            "x": 41.200066677948904,
+            "y": 74.75885880120782
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    },
+    {
+        "id_contour": 220,
+        "polygon": {
+            "x": 41.18538073686588,
+            "y": 74.76631383155733
+        },
+        "indextype": "NDVI",
+        "Analysis Date": "2020-06-04",
+        "year contour": "2020",
+        "elevation_contour": "1544",
+        "district_name": "Chuy",
+        "district_id": 10,
+        "soil_id": 28,
+        "soil_name": "Горные светло-каштановые",
+        "culture_name": null,
+        "type_culture_name": null
+    }
+]
