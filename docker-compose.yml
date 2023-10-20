@@ -1,0 +1,13 @@
+version: '3.10'
+
+services:
+  script-container:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/usr/src/app
+    ports:
+      - "54321:54321"
+      
+    command: "python3 LightGBM.py"
