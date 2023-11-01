@@ -2,3 +2,5 @@ venv
 .ipynb_checkpoints
 .idea
 .logs
+Machine-Learning-with-Python/
+yield/dataSet_Culture_27102023_from_prod_server.json
