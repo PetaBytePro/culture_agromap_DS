@@ -1,0 +1,2774 @@
+[
+    {
+        "index_month_4": -0.047,
+        "index_month_5": -0.298,
+        "index_month_6": -0.293,
+        "index_month_7": 0.148,
+        "index_month_8": 0.105,
+        "elevation": 724.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.016,
+        "index_month_5": 0.27,
+        "index_month_6": 0.298,
+        "index_month_7": 0.26,
+        "index_month_8": 0.757,
+        "elevation": 729.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": -0.034,
+        "index_month_5": -0.258,
+        "index_month_6": -0.017,
+        "index_month_7": 0.131,
+        "index_month_8": -0.086,
+        "elevation": 626.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.068,
+        "index_month_5": -0.186,
+        "index_month_6": -0.112,
+        "index_month_7": 0.286,
+        "index_month_8": 0.12,
+        "elevation": 619.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.11,
+        "index_month_5": 0.439,
+        "index_month_6": -0.3,
+        "index_month_7": -0.02,
+        "index_month_8": 0.211,
+        "elevation": 966.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.161,
+        "index_month_5": -0.325,
+        "index_month_6": 0.631,
+        "index_month_7": 0.339,
+        "index_month_8": 0.069,
+        "elevation": 945.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.086,
+        "index_month_5": -0.157,
+        "index_month_6": 0.349,
+        "index_month_7": 0.344,
+        "index_month_8": 0.469,
+        "elevation": 953.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.074,
+        "index_month_5": -0.083,
+        "index_month_6": 0.039,
+        "index_month_7": -0.374,
+        "index_month_8": 0.658,
+        "elevation": 667.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.071,
+        "index_month_5": -0.093,
+        "index_month_6": 0.166,
+        "index_month_7": -0.234,
+        "index_month_8": -0.234,
+        "elevation": 653.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.042,
+        "index_month_5": 0.07,
+        "index_month_6": 0.095,
+        "index_month_7": 0.012,
+        "index_month_8": -0.155,
+        "elevation": 594.0,
+        "culture_name": "Соя"
+    },
+    {
+        "index_month_4": -0.073,
+        "index_month_5": 0.54,
+        "index_month_6": -0.049,
+        "index_month_7": 0.117,
+        "index_month_8": -0.132,
+        "elevation": 590.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.082,
+        "index_month_5": 0.075,
+        "index_month_6": -0.159,
+        "index_month_7": 0.171,
+        "index_month_8": -0.084,
+        "elevation": 722.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.049,
+        "index_month_5": 0.21,
+        "index_month_6": 0.044,
+        "index_month_7": -0.057,
+        "index_month_8": 0.084,
+        "elevation": 716.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.104,
+        "index_month_5": 0.179,
+        "index_month_6": 0.136,
+        "index_month_7": -0.184,
+        "index_month_8": -0.122,
+        "elevation": 728.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.038,
+        "index_month_5": 0.289,
+        "index_month_6": 0.275,
+        "index_month_7": 0.21,
+        "index_month_8": 0.162,
+        "elevation": 645.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.094,
+        "index_month_5": 0.292,
+        "index_month_6": 0.295,
+        "index_month_7": 0.253,
+        "index_month_8": -0.066,
+        "elevation": 649.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.026,
+        "index_month_5": 0.041,
+        "index_month_6": -0.133,
+        "index_month_7": 0.081,
+        "index_month_8": -0.086,
+        "elevation": 719.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.083,
+        "index_month_5": 0.301,
+        "index_month_6": 0.253,
+        "index_month_7": 0.218,
+        "index_month_8": -0.181,
+        "elevation": 742.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.074,
+        "index_month_5": -0.122,
+        "index_month_6": -0.183,
+        "index_month_7": 0.271,
+        "index_month_8": -0.272,
+        "elevation": 652.0,
+        "culture_name": "Соя"
+    },
+    {
+        "index_month_4": 0.087,
+        "index_month_5": -0.247,
+        "index_month_6": 0.3,
+        "index_month_7": 0.268,
+        "index_month_8": -0.079,
+        "elevation": 649.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.032,
+        "index_month_5": -0.057,
+        "index_month_6": 0.148,
+        "index_month_7": 0.06,
+        "index_month_8": 0.08,
+        "elevation": 651.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.123,
+        "index_month_5": 0.161,
+        "index_month_6": -0.202,
+        "index_month_7": 0.21,
+        "index_month_8": 0.359,
+        "elevation": 652.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.131,
+        "index_month_5": 0.348,
+        "index_month_6": -0.018,
+        "index_month_7": 0.146,
+        "index_month_8": 0.046,
+        "elevation": 773.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.039,
+        "index_month_5": 0.115,
+        "index_month_6": 0.259,
+        "index_month_7": 0.132,
+        "index_month_8": -0.03,
+        "elevation": 918.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.087,
+        "index_month_5": 0.059,
+        "index_month_6": 0.002,
+        "index_month_7": 0.1,
+        "index_month_8": -0.058,
+        "elevation": 791.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.019,
+        "index_month_5": -0.047,
+        "index_month_6": 0.096,
+        "index_month_7": 0.191,
+        "index_month_8": 0.101,
+        "elevation": 826.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.286,
+        "index_month_5": 0.692,
+        "index_month_6": 0.349,
+        "index_month_7": -0.13,
+        "index_month_8": 0.096,
+        "elevation": 740.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.059,
+        "index_month_5": -0.09,
+        "index_month_6": 0.18,
+        "index_month_7": 0.14,
+        "index_month_8": 0.13,
+        "elevation": 692.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.067,
+        "index_month_5": 0.142,
+        "index_month_6": 0.004,
+        "index_month_7": 0.211,
+        "index_month_8": -0.302,
+        "elevation": 665.0,
+        "culture_name": "Соя"
+    },
+    {
+        "index_month_4": 0.032,
+        "index_month_5": -0.048,
+        "index_month_6": 0.11,
+        "index_month_7": 0.159,
+        "index_month_8": 0.218,
+        "elevation": 680.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.055,
+        "index_month_5": 0.2,
+        "index_month_6": 0.023,
+        "index_month_7": 0.077,
+        "index_month_8": 0.634,
+        "elevation": 644.0,
+        "culture_name": "Соя"
+    },
+    {
+        "index_month_4": -0.023,
+        "index_month_5": -0.082,
+        "index_month_6": 0.199,
+        "index_month_7": 0.329,
+        "index_month_8": -0.187,
+        "elevation": 666.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.029,
+        "index_month_5": 0.006,
+        "index_month_6": 0.082,
+        "index_month_7": -0.027,
+        "index_month_8": -0.021,
+        "elevation": 696.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.02,
+        "index_month_5": -0.115,
+        "index_month_6": 0.26,
+        "index_month_7": 0.064,
+        "index_month_8": 0.042,
+        "elevation": 746.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.123,
+        "index_month_5": 0.267,
+        "index_month_6": -0.178,
+        "index_month_7": 0.357,
+        "index_month_8": 0.181,
+        "elevation": 813.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.049,
+        "index_month_5": -0.073,
+        "index_month_6": 0.021,
+        "index_month_7": 0.213,
+        "index_month_8": -0.18,
+        "elevation": 667.0,
+        "culture_name": "Соя"
+    },
+    {
+        "index_month_4": -0.025,
+        "index_month_5": 0.037,
+        "index_month_6": 0.071,
+        "index_month_7": 0.069,
+        "index_month_8": -0.095,
+        "elevation": 658.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.049,
+        "index_month_5": -0.045,
+        "index_month_6": 0.096,
+        "index_month_7": -0.186,
+        "index_month_8": -0.072,
+        "elevation": 1063.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.058,
+        "index_month_5": 0.047,
+        "index_month_6": -0.043,
+        "index_month_7": -0.02,
+        "index_month_8": 0.235,
+        "elevation": 587.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.029,
+        "index_month_5": -0.064,
+        "index_month_6": -0.047,
+        "index_month_7": 0.16,
+        "index_month_8": 0.027,
+        "elevation": 588.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.019,
+        "index_month_5": 0.02,
+        "index_month_6": -0.053,
+        "index_month_7": 0.034,
+        "index_month_8": -0.084,
+        "elevation": 722.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.104,
+        "index_month_5": -0.145,
+        "index_month_6": 0.225,
+        "index_month_7": -0.322,
+        "index_month_8": 0.146,
+        "elevation": 696.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.047,
+        "index_month_5": -0.062,
+        "index_month_6": -0.097,
+        "index_month_7": 0.037,
+        "index_month_8": -0.18,
+        "elevation": 707.0,
+        "culture_name": "Томат"
+    },
+    {
+        "index_month_4": -0.143,
+        "index_month_5": 0.194,
+        "index_month_6": 0.416,
+        "index_month_7": 0.188,
+        "index_month_8": 0.575,
+        "elevation": 707.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": -0.138,
+        "index_month_5": -0.357,
+        "index_month_6": 0.176,
+        "index_month_7": 0.147,
+        "index_month_8": 0.094,
+        "elevation": 730.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.029,
+        "index_month_5": 0.054,
+        "index_month_6": 0.047,
+        "index_month_7": 0.057,
+        "index_month_8": 0.049,
+        "elevation": 677.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.026,
+        "index_month_5": 0.037,
+        "index_month_6": -0.08,
+        "index_month_7": 0.054,
+        "index_month_8": 0.052,
+        "elevation": 687.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.011,
+        "index_month_5": 0.075,
+        "index_month_6": 0.126,
+        "index_month_7": 0.25,
+        "index_month_8": 0.179,
+        "elevation": 708.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.145,
+        "index_month_5": 0.688,
+        "index_month_6": -0.03,
+        "index_month_7": -0.42,
+        "index_month_8": 0.359,
+        "elevation": 667.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.096,
+        "index_month_5": -0.062,
+        "index_month_6": 0.152,
+        "index_month_7": 0.465,
+        "index_month_8": 0.103,
+        "elevation": 671.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.219,
+        "index_month_5": 0.616,
+        "index_month_6": 0.0,
+        "index_month_7": 0.271,
+        "index_month_8": 0.211,
+        "elevation": 654.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.03,
+        "index_month_5": 0.408,
+        "index_month_6": 0.041,
+        "index_month_7": 0.19,
+        "index_month_8": -0.2,
+        "elevation": 669.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.115,
+        "index_month_5": 0.396,
+        "index_month_6": 0.295,
+        "index_month_7": -0.217,
+        "index_month_8": 0.184,
+        "elevation": 711.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": -0.041,
+        "index_month_5": -0.115,
+        "index_month_6": -0.224,
+        "index_month_7": 0.072,
+        "index_month_8": 0.389,
+        "elevation": 709.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.14,
+        "index_month_5": 0.658,
+        "index_month_6": 0.331,
+        "index_month_7": -0.129,
+        "index_month_8": 0.191,
+        "elevation": 664.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.125,
+        "index_month_5": 0.473,
+        "index_month_6": -0.219,
+        "index_month_7": -0.201,
+        "index_month_8": -0.109,
+        "elevation": 658.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.111,
+        "index_month_5": 0.12,
+        "index_month_6": -0.153,
+        "index_month_7": 0.306,
+        "index_month_8": 0.138,
+        "elevation": 655.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.125,
+        "index_month_5": -0.111,
+        "index_month_6": 0.25,
+        "index_month_7": 0.356,
+        "index_month_8": -0.339,
+        "elevation": 654.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.104,
+        "index_month_5": -0.141,
+        "index_month_6": 0.205,
+        "index_month_7": 0.125,
+        "index_month_8": 0.49,
+        "elevation": 703.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.001,
+        "index_month_5": -0.204,
+        "index_month_6": -0.137,
+        "index_month_7": -0.113,
+        "index_month_8": 0.053,
+        "elevation": 618.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.051,
+        "index_month_5": 0.047,
+        "index_month_6": 0.127,
+        "index_month_7": -0.031,
+        "index_month_8": -0.058,
+        "elevation": 622.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.074,
+        "index_month_5": 0.041,
+        "index_month_6": 0.117,
+        "index_month_7": 0.104,
+        "index_month_8": -0.074,
+        "elevation": 625.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.072,
+        "index_month_5": 0.543,
+        "index_month_6": 0.415,
+        "index_month_7": -0.2,
+        "index_month_8": -0.131,
+        "elevation": 704.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.248,
+        "index_month_5": -0.341,
+        "index_month_6": 0.0,
+        "index_month_7": 0.266,
+        "index_month_8": -0.165,
+        "elevation": 704.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.023,
+        "index_month_5": 0.31,
+        "index_month_6": -0.156,
+        "index_month_7": -0.055,
+        "index_month_8": 0.118,
+        "elevation": 698.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.095,
+        "index_month_5": 0.697,
+        "index_month_6": 0.572,
+        "index_month_7": -0.252,
+        "index_month_8": -0.155,
+        "elevation": 695.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.051,
+        "index_month_5": -0.117,
+        "index_month_6": -0.153,
+        "index_month_7": 0.114,
+        "index_month_8": -0.221,
+        "elevation": 697.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.076,
+        "index_month_5": 0.096,
+        "index_month_6": -0.127,
+        "index_month_7": 0.335,
+        "index_month_8": 0.221,
+        "elevation": 697.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.147,
+        "index_month_5": -0.036,
+        "index_month_6": 0.12,
+        "index_month_7": -0.183,
+        "index_month_8": -0.181,
+        "elevation": 700.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.075,
+        "index_month_5": 0.122,
+        "index_month_6": 0.075,
+        "index_month_7": -0.009,
+        "index_month_8": -0.077,
+        "elevation": 700.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.132,
+        "index_month_5": 0.216,
+        "index_month_6": 0.115,
+        "index_month_7": -0.129,
+        "index_month_8": -0.128,
+        "elevation": 696.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.033,
+        "index_month_5": 0.306,
+        "index_month_6": 0.16,
+        "index_month_7": -0.1,
+        "index_month_8": -0.062,
+        "elevation": 576.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.075,
+        "index_month_5": 0.305,
+        "index_month_6": 0.152,
+        "index_month_7": 0.133,
+        "index_month_8": 0.067,
+        "elevation": 576.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.031,
+        "index_month_5": -0.115,
+        "index_month_6": 0.032,
+        "index_month_7": 0.07,
+        "index_month_8": 0.057,
+        "elevation": 586.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.033,
+        "index_month_5": 0.079,
+        "index_month_6": 0.147,
+        "index_month_7": 0.156,
+        "index_month_8": 0.186,
+        "elevation": 586.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.017,
+        "index_month_5": -0.237,
+        "index_month_6": -0.048,
+        "index_month_7": 0.129,
+        "index_month_8": -0.129,
+        "elevation": 584.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.161,
+        "index_month_5": 0.334,
+        "index_month_6": -0.068,
+        "index_month_7": 0.091,
+        "index_month_8": 0.086,
+        "elevation": 595.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.082,
+        "index_month_5": -0.435,
+        "index_month_6": 0.26,
+        "index_month_7": 0.161,
+        "index_month_8": 0.346,
+        "elevation": 595.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": -0.02,
+        "index_month_5": 0.181,
+        "index_month_6": 0.239,
+        "index_month_7": -0.101,
+        "index_month_8": 0.095,
+        "elevation": 593.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.217,
+        "index_month_5": 0.437,
+        "index_month_6": -0.297,
+        "index_month_7": 0.634,
+        "index_month_8": -0.244,
+        "elevation": 599.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.017,
+        "index_month_5": 0.441,
+        "index_month_6": 0.253,
+        "index_month_7": 0.175,
+        "index_month_8": 0.041,
+        "elevation": 599.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": -0.052,
+        "index_month_5": -0.144,
+        "index_month_6": 0.274,
+        "index_month_7": -0.133,
+        "index_month_8": 0.068,
+        "elevation": 600.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.121,
+        "index_month_5": 0.274,
+        "index_month_6": -0.05,
+        "index_month_7": 0.061,
+        "index_month_8": 0.085,
+        "elevation": 599.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.008,
+        "index_month_5": 0.125,
+        "index_month_6": -0.048,
+        "index_month_7": -0.044,
+        "index_month_8": 0.045,
+        "elevation": 596.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.053,
+        "index_month_5": -0.123,
+        "index_month_6": -0.063,
+        "index_month_7": 0.058,
+        "index_month_8": -0.055,
+        "elevation": 594.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.273,
+        "index_month_5": 0.761,
+        "index_month_6": 0.25,
+        "index_month_7": -0.268,
+        "index_month_8": 0.156,
+        "elevation": 583.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.057,
+        "index_month_5": -0.059,
+        "index_month_6": 0.192,
+        "index_month_7": 0.247,
+        "index_month_8": -0.222,
+        "elevation": 769.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.143,
+        "index_month_5": 0.402,
+        "index_month_6": 0.379,
+        "index_month_7": 0.182,
+        "index_month_8": 0.15,
+        "elevation": 690.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.025,
+        "index_month_5": 0.072,
+        "index_month_6": 0.137,
+        "index_month_7": -0.064,
+        "index_month_8": 0.047,
+        "elevation": 682.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.054,
+        "index_month_5": -0.041,
+        "index_month_6": 0.07,
+        "index_month_7": -0.248,
+        "index_month_8": 0.4,
+        "elevation": 683.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.028,
+        "index_month_5": -0.023,
+        "index_month_6": 0.012,
+        "index_month_7": -0.083,
+        "index_month_8": 0.153,
+        "elevation": 686.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.02,
+        "index_month_5": 0.065,
+        "index_month_6": -0.092,
+        "index_month_7": 0.054,
+        "index_month_8": 0.14,
+        "elevation": 687.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.018,
+        "index_month_5": -0.008,
+        "index_month_6": -0.053,
+        "index_month_7": 0.082,
+        "index_month_8": 0.035,
+        "elevation": 687.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.022,
+        "index_month_5": 0.052,
+        "index_month_6": 0.031,
+        "index_month_7": 0.09,
+        "index_month_8": 0.151,
+        "elevation": 687.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.122,
+        "index_month_5": 0.142,
+        "index_month_6": 0.028,
+        "index_month_7": 0.213,
+        "index_month_8": 0.496,
+        "elevation": 615.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": -0.07,
+        "index_month_5": 0.087,
+        "index_month_6": -0.164,
+        "index_month_7": -0.298,
+        "index_month_8": 0.477,
+        "elevation": 609.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": 0.069,
+        "index_month_5": 0.144,
+        "index_month_6": -0.371,
+        "index_month_7": 0.721,
+        "index_month_8": 0.563,
+        "elevation": 608.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": -0.066,
+        "index_month_5": null,
+        "index_month_6": 0.627,
+        "index_month_7": -0.27,
+        "index_month_8": 0.12,
+        "elevation": 683.0,
+        "culture_name": "Софлор"
+    },
+    {
+        "index_month_4": 0.065,
+        "index_month_5": null,
+        "index_month_6": 0.289,
+        "index_month_7": 0.44,
+        "index_month_8": -0.323,
+        "elevation": 656.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.051,
+        "index_month_5": null,
+        "index_month_6": 0.474,
+        "index_month_7": 0.223,
+        "index_month_8": 0.094,
+        "elevation": 654.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.04,
+        "index_month_5": null,
+        "index_month_6": 0.146,
+        "index_month_7": -0.173,
+        "index_month_8": 0.314,
+        "elevation": 728.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.168,
+        "index_month_5": null,
+        "index_month_6": -0.043,
+        "index_month_7": -0.151,
+        "index_month_8": -0.116,
+        "elevation": 750.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.016,
+        "index_month_5": null,
+        "index_month_6": 0.273,
+        "index_month_7": 0.321,
+        "index_month_8": 0.241,
+        "elevation": 752.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.211,
+        "index_month_5": null,
+        "index_month_6": 0.196,
+        "index_month_7": 0.042,
+        "index_month_8": 0.464,
+        "elevation": 757.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.116,
+        "index_month_5": null,
+        "index_month_6": 0.296,
+        "index_month_7": 0.182,
+        "index_month_8": 0.078,
+        "elevation": 638.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.017,
+        "index_month_5": null,
+        "index_month_6": 0.039,
+        "index_month_7": 0.007,
+        "index_month_8": 0.027,
+        "elevation": 715.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": -0.014,
+        "index_month_5": null,
+        "index_month_6": 0.019,
+        "index_month_7": 0.027,
+        "index_month_8": 0.026,
+        "elevation": 706.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.054,
+        "index_month_5": null,
+        "index_month_6": -0.075,
+        "index_month_7": -0.091,
+        "index_month_8": -0.029,
+        "elevation": 705.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.043,
+        "index_month_5": null,
+        "index_month_6": 0.123,
+        "index_month_7": 0.069,
+        "index_month_8": -0.057,
+        "elevation": 708.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.041,
+        "index_month_5": null,
+        "index_month_6": -0.093,
+        "index_month_7": 0.066,
+        "index_month_8": 0.053,
+        "elevation": 621.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.067,
+        "index_month_5": null,
+        "index_month_6": -0.31,
+        "index_month_7": 0.475,
+        "index_month_8": 0.605,
+        "elevation": 715.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": -0.196,
+        "index_month_5": null,
+        "index_month_6": -0.035,
+        "index_month_7": 0.165,
+        "index_month_8": -0.143,
+        "elevation": 709.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.106,
+        "index_month_5": null,
+        "index_month_6": -0.134,
+        "index_month_7": -0.068,
+        "index_month_8": 0.044,
+        "elevation": 707.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.084,
+        "index_month_5": null,
+        "index_month_6": 0.136,
+        "index_month_7": 0.083,
+        "index_month_8": -0.126,
+        "elevation": 610.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.038,
+        "index_month_5": 0.605,
+        "index_month_6": 0.397,
+        "index_month_7": 0.183,
+        "index_month_8": -0.109,
+        "elevation": 726.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.039,
+        "index_month_5": -0.09,
+        "index_month_6": 0.076,
+        "index_month_7": 0.095,
+        "index_month_8": 0.482,
+        "elevation": 701.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.104,
+        "index_month_5": -0.137,
+        "index_month_6": -0.292,
+        "index_month_7": 0.591,
+        "index_month_8": 0.401,
+        "elevation": 733.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.25,
+        "index_month_5": -0.386,
+        "index_month_6": 0.405,
+        "index_month_7": -0.128,
+        "index_month_8": -0.221,
+        "elevation": 793.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.024,
+        "index_month_5": 0.078,
+        "index_month_6": 0.088,
+        "index_month_7": null,
+        "index_month_8": -0.033,
+        "elevation": 823.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": 0.015,
+        "index_month_5": 0.042,
+        "index_month_6": -0.046,
+        "index_month_7": null,
+        "index_month_8": -0.061,
+        "elevation": 820.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": 0.072,
+        "index_month_5": 0.079,
+        "index_month_6": -0.059,
+        "index_month_7": null,
+        "index_month_8": 0.105,
+        "elevation": 833.0,
+        "culture_name": "Лук"
+    },
+    {
+        "index_month_4": -0.062,
+        "index_month_5": -0.078,
+        "index_month_6": 0.188,
+        "index_month_7": null,
+        "index_month_8": 0.082,
+        "elevation": 868.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": 0.084,
+        "index_month_5": -0.018,
+        "index_month_6": 0.255,
+        "index_month_7": null,
+        "index_month_8": -0.446,
+        "elevation": 886.0,
+        "culture_name": "Соя"
+    },
+    {
+        "index_month_4": 0.062,
+        "index_month_5": -0.126,
+        "index_month_6": -0.057,
+        "index_month_7": 0.338,
+        "index_month_8": 0.484,
+        "elevation": 820.0,
+        "culture_name": "Томат"
+    },
+    {
+        "index_month_4": 0.035,
+        "index_month_5": 0.042,
+        "index_month_6": 0.01,
+        "index_month_7": 0.063,
+        "index_month_8": 0.065,
+        "elevation": 669.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.111,
+        "index_month_5": 0.193,
+        "index_month_6": 0.022,
+        "index_month_7": 0.583,
+        "index_month_8": -0.285,
+        "elevation": 671.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.044,
+        "index_month_5": -0.118,
+        "index_month_6": -0.243,
+        "index_month_7": 0.329,
+        "index_month_8": 0.326,
+        "elevation": 738.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.033,
+        "index_month_5": 0.055,
+        "index_month_6": -0.207,
+        "index_month_7": -0.002,
+        "index_month_8": -0.161,
+        "elevation": 672.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.042,
+        "index_month_5": 0.117,
+        "index_month_6": 0.005,
+        "index_month_7": -0.165,
+        "index_month_8": 0.048,
+        "elevation": 678.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.051,
+        "index_month_5": -0.123,
+        "index_month_6": 0.141,
+        "index_month_7": 0.204,
+        "index_month_8": -0.274,
+        "elevation": 678.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.101,
+        "index_month_5": 0.172,
+        "index_month_6": 0.355,
+        "index_month_7": 0.71,
+        "index_month_8": -0.421,
+        "elevation": 704.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.021,
+        "index_month_5": 0.043,
+        "index_month_6": 0.044,
+        "index_month_7": -0.032,
+        "index_month_8": 0.069,
+        "elevation": 734.0,
+        "culture_name": "Лук"
+    },
+    {
+        "index_month_4": -0.112,
+        "index_month_5": 0.352,
+        "index_month_6": 0.002,
+        "index_month_7": -0.134,
+        "index_month_8": 0.179,
+        "elevation": 687.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.19,
+        "index_month_5": 0.043,
+        "index_month_6": 0.235,
+        "index_month_7": 0.167,
+        "index_month_8": -0.175,
+        "elevation": 687.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.064,
+        "index_month_5": 0.446,
+        "index_month_6": 0.196,
+        "index_month_7": -0.29,
+        "index_month_8": 0.207,
+        "elevation": 701.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.113,
+        "index_month_5": 0.499,
+        "index_month_6": -0.321,
+        "index_month_7": -0.098,
+        "index_month_8": -0.129,
+        "elevation": 713.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.105,
+        "index_month_5": -0.128,
+        "index_month_6": 0.166,
+        "index_month_7": 0.02,
+        "index_month_8": -0.305,
+        "elevation": 754.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.052,
+        "index_month_5": 0.442,
+        "index_month_6": 0.722,
+        "index_month_7": -0.273,
+        "index_month_8": 0.152,
+        "elevation": 756.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.104,
+        "index_month_5": 0.117,
+        "index_month_6": 0.413,
+        "index_month_7": 0.183,
+        "index_month_8": -0.236,
+        "elevation": 756.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.123,
+        "index_month_5": 0.04,
+        "index_month_6": 0.127,
+        "index_month_7": 0.342,
+        "index_month_8": -0.2,
+        "elevation": 757.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.015,
+        "index_month_5": -0.045,
+        "index_month_6": 0.062,
+        "index_month_7": 0.044,
+        "index_month_8": -0.044,
+        "elevation": 762.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.085,
+        "index_month_5": -0.168,
+        "index_month_6": -0.32,
+        "index_month_7": 0.391,
+        "index_month_8": 0.288,
+        "elevation": 760.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.035,
+        "index_month_5": 0.02,
+        "index_month_6": 0.04,
+        "index_month_7": -0.039,
+        "index_month_8": 0.02,
+        "elevation": 763.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.013,
+        "index_month_5": -0.063,
+        "index_month_6": 0.049,
+        "index_month_7": -0.044,
+        "index_month_8": -0.045,
+        "elevation": 770.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.016,
+        "index_month_5": -0.039,
+        "index_month_6": 0.036,
+        "index_month_7": -0.023,
+        "index_month_8": 0.036,
+        "elevation": 770.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.007,
+        "index_month_5": -0.038,
+        "index_month_6": -0.029,
+        "index_month_7": -0.014,
+        "index_month_8": -0.031,
+        "elevation": 770.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.063,
+        "index_month_5": -0.094,
+        "index_month_6": 0.201,
+        "index_month_7": 0.164,
+        "index_month_8": 0.097,
+        "elevation": 767.0,
+        "culture_name": "Клевер"
+    },
+    {
+        "index_month_4": -0.031,
+        "index_month_5": -0.055,
+        "index_month_6": 0.177,
+        "index_month_7": -0.203,
+        "index_month_8": 0.281,
+        "elevation": 778.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.0,
+        "index_month_5": -0.018,
+        "index_month_6": 0.03,
+        "index_month_7": -0.018,
+        "index_month_8": 0.015,
+        "elevation": 897.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.048,
+        "index_month_5": 0.052,
+        "index_month_6": -0.126,
+        "index_month_7": 0.054,
+        "index_month_8": 0.042,
+        "elevation": 939.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": -0.009,
+        "index_month_5": 0.044,
+        "index_month_6": -0.036,
+        "index_month_7": -0.004,
+        "index_month_8": 0.051,
+        "elevation": 939.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": -0.006,
+        "index_month_5": 0.015,
+        "index_month_6": -0.043,
+        "index_month_7": 0.001,
+        "index_month_8": 0.014,
+        "elevation": 963.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.115,
+        "index_month_5": 0.676,
+        "index_month_6": -0.262,
+        "index_month_7": 0.175,
+        "index_month_8": -0.127,
+        "elevation": 620.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.081,
+        "index_month_5": 0.067,
+        "index_month_6": 0.2,
+        "index_month_7": -0.356,
+        "index_month_8": 0.371,
+        "elevation": 621.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": -0.066,
+        "index_month_5": 0.033,
+        "index_month_6": -0.45,
+        "index_month_7": 0.617,
+        "index_month_8": -0.115,
+        "elevation": 623.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": 0.052,
+        "index_month_5": 0.116,
+        "index_month_6": -0.375,
+        "index_month_7": 0.631,
+        "index_month_8": -0.032,
+        "elevation": 623.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": 0.117,
+        "index_month_5": 0.529,
+        "index_month_6": 0.439,
+        "index_month_7": -0.14,
+        "index_month_8": -0.117,
+        "elevation": 628.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.064,
+        "index_month_5": -0.001,
+        "index_month_6": 0.68,
+        "index_month_7": 0.426,
+        "index_month_8": 0.404,
+        "elevation": 625.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": -0.18,
+        "index_month_5": 0.182,
+        "index_month_6": 0.084,
+        "index_month_7": -0.329,
+        "index_month_8": 0.318,
+        "elevation": 632.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": -0.243,
+        "index_month_5": 0.495,
+        "index_month_6": 0.518,
+        "index_month_7": -0.419,
+        "index_month_8": 0.447,
+        "elevation": 633.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.161,
+        "index_month_5": 0.507,
+        "index_month_6": -0.038,
+        "index_month_7": -0.224,
+        "index_month_8": 0.21,
+        "elevation": 630.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.101,
+        "index_month_5": 0.092,
+        "index_month_6": -0.006,
+        "index_month_7": -0.091,
+        "index_month_8": 0.035,
+        "elevation": 618.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.076,
+        "index_month_5": 0.077,
+        "index_month_6": 0.071,
+        "index_month_7": -0.06,
+        "index_month_8": -0.047,
+        "elevation": 637.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.044,
+        "index_month_5": 0.121,
+        "index_month_6": -0.2,
+        "index_month_7": 0.335,
+        "index_month_8": 0.148,
+        "elevation": 627.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.048,
+        "index_month_5": 0.054,
+        "index_month_6": 0.086,
+        "index_month_7": 0.044,
+        "index_month_8": 0.074,
+        "elevation": 626.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.057,
+        "index_month_5": 0.239,
+        "index_month_6": 0.317,
+        "index_month_7": 0.132,
+        "index_month_8": 0.062,
+        "elevation": 654.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.027,
+        "index_month_5": -0.001,
+        "index_month_6": -0.128,
+        "index_month_7": -0.169,
+        "index_month_8": 0.13,
+        "elevation": 626.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.041,
+        "index_month_5": 0.233,
+        "index_month_6": 0.395,
+        "index_month_7": -0.096,
+        "index_month_8": -0.137,
+        "elevation": 1221.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.127,
+        "index_month_5": 0.368,
+        "index_month_6": -0.413,
+        "index_month_7": 0.37,
+        "index_month_8": -0.164,
+        "elevation": 1216.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.12,
+        "index_month_5": 0.11,
+        "index_month_6": 0.371,
+        "index_month_7": -0.095,
+        "index_month_8": -0.171,
+        "elevation": 1216.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.105,
+        "index_month_5": 0.068,
+        "index_month_6": 0.245,
+        "index_month_7": 0.332,
+        "index_month_8": 0.184,
+        "elevation": 1275.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.054,
+        "index_month_5": 0.512,
+        "index_month_6": 0.865,
+        "index_month_7": 0.074,
+        "index_month_8": 0.227,
+        "elevation": 1273.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": -0.024,
+        "index_month_5": 0.115,
+        "index_month_6": 0.179,
+        "index_month_7": 0.125,
+        "index_month_8": 0.213,
+        "elevation": 1146.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.102,
+        "index_month_5": 0.161,
+        "index_month_6": 0.304,
+        "index_month_7": 0.184,
+        "index_month_8": -0.261,
+        "elevation": 1144.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.064,
+        "index_month_5": 0.412,
+        "index_month_6": -0.321,
+        "index_month_7": 0.318,
+        "index_month_8": 0.169,
+        "elevation": 1150.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.033,
+        "index_month_5": 0.04,
+        "index_month_6": 0.226,
+        "index_month_7": 0.2,
+        "index_month_8": -0.034,
+        "elevation": 1253.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.096,
+        "index_month_5": -0.059,
+        "index_month_6": -0.43,
+        "index_month_7": -0.297,
+        "index_month_8": -0.21,
+        "elevation": 1184.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.06,
+        "index_month_5": 0.338,
+        "index_month_6": 0.143,
+        "index_month_7": -0.035,
+        "index_month_8": 0.117,
+        "elevation": 1141.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.061,
+        "index_month_5": 0.125,
+        "index_month_6": 0.004,
+        "index_month_7": -0.244,
+        "index_month_8": 0.144,
+        "elevation": 627.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.04,
+        "index_month_5": -0.036,
+        "index_month_6": -0.116,
+        "index_month_7": -0.199,
+        "index_month_8": -0.21,
+        "elevation": 629.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.047,
+        "index_month_5": -0.057,
+        "index_month_6": 0.176,
+        "index_month_7": 0.085,
+        "index_month_8": 0.339,
+        "elevation": 634.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.058,
+        "index_month_5": -0.016,
+        "index_month_6": 0.08,
+        "index_month_7": 0.113,
+        "index_month_8": 0.003,
+        "elevation": 636.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.038,
+        "index_month_5": 0.359,
+        "index_month_6": -0.346,
+        "index_month_7": -0.288,
+        "index_month_8": 0.207,
+        "elevation": 633.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.041,
+        "index_month_5": 0.198,
+        "index_month_6": 0.07,
+        "index_month_7": 0.184,
+        "index_month_8": -0.088,
+        "elevation": 633.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.21,
+        "index_month_5": 0.048,
+        "index_month_6": -0.037,
+        "index_month_7": 0.053,
+        "index_month_8": -0.067,
+        "elevation": 628.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.027,
+        "index_month_5": -0.096,
+        "index_month_6": 0.073,
+        "index_month_7": -0.267,
+        "index_month_8": 0.396,
+        "elevation": 624.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.074,
+        "index_month_5": -0.394,
+        "index_month_6": -0.223,
+        "index_month_7": 0.513,
+        "index_month_8": 0.239,
+        "elevation": 625.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.097,
+        "index_month_5": -0.127,
+        "index_month_6": 0.027,
+        "index_month_7": 0.619,
+        "index_month_8": 0.141,
+        "elevation": 672.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.091,
+        "index_month_5": -0.083,
+        "index_month_6": 0.323,
+        "index_month_7": 0.131,
+        "index_month_8": 0.114,
+        "elevation": 674.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.049,
+        "index_month_5": -0.116,
+        "index_month_6": -0.178,
+        "index_month_7": 0.483,
+        "index_month_8": 0.306,
+        "elevation": 671.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.032,
+        "index_month_5": 0.072,
+        "index_month_6": 0.205,
+        "index_month_7": 0.467,
+        "index_month_8": 0.299,
+        "elevation": 664.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.017,
+        "index_month_5": 0.019,
+        "index_month_6": 0.008,
+        "index_month_7": 0.115,
+        "index_month_8": 0.076,
+        "elevation": 635.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.074,
+        "index_month_5": -0.033,
+        "index_month_6": 0.08,
+        "index_month_7": 0.678,
+        "index_month_8": 0.642,
+        "elevation": 664.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.044,
+        "index_month_5": 0.063,
+        "index_month_6": 0.05,
+        "index_month_7": 0.33,
+        "index_month_8": 0.099,
+        "elevation": 677.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.056,
+        "index_month_5": -0.13,
+        "index_month_6": 0.214,
+        "index_month_7": 0.208,
+        "index_month_8": 0.077,
+        "elevation": 724.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.129,
+        "index_month_5": 0.176,
+        "index_month_6": -0.002,
+        "index_month_7": 0.64,
+        "index_month_8": 0.452,
+        "elevation": 712.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.104,
+        "index_month_5": 0.243,
+        "index_month_6": 0.261,
+        "index_month_7": -0.131,
+        "index_month_8": 0.133,
+        "elevation": 723.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.061,
+        "index_month_5": -0.132,
+        "index_month_6": 0.251,
+        "index_month_7": 0.167,
+        "index_month_8": 0.159,
+        "elevation": 737.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.05,
+        "index_month_5": 0.035,
+        "index_month_6": 0.434,
+        "index_month_7": 0.146,
+        "index_month_8": 0.125,
+        "elevation": 737.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.252,
+        "index_month_5": 0.093,
+        "index_month_6": -0.153,
+        "index_month_7": 0.125,
+        "index_month_8": -0.145,
+        "elevation": 606.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.026,
+        "index_month_5": null,
+        "index_month_6": -0.078,
+        "index_month_7": -0.145,
+        "index_month_8": -0.139,
+        "elevation": 605.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.002,
+        "index_month_5": 0.1,
+        "index_month_6": -0.053,
+        "index_month_7": 0.08,
+        "index_month_8": 0.108,
+        "elevation": 587.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": -0.132,
+        "index_month_5": null,
+        "index_month_6": null,
+        "index_month_7": null,
+        "index_month_8": -0.215,
+        "elevation": 713.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": null,
+        "index_month_5": -0.224,
+        "index_month_6": null,
+        "index_month_7": null,
+        "index_month_8": null,
+        "elevation": 588.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.031,
+        "index_month_5": -0.012,
+        "index_month_6": 0.246,
+        "index_month_7": 0.109,
+        "index_month_8": -0.053,
+        "elevation": 603.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.049,
+        "index_month_5": -0.061,
+        "index_month_6": -0.182,
+        "index_month_7": 0.088,
+        "index_month_8": 0.108,
+        "elevation": 599.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": -0.033,
+        "index_month_5": 0.058,
+        "index_month_6": 0.172,
+        "index_month_7": 0.091,
+        "index_month_8": 0.046,
+        "elevation": 603.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.246,
+        "index_month_5": 0.381,
+        "index_month_6": -0.046,
+        "index_month_7": 0.145,
+        "index_month_8": -0.117,
+        "elevation": 605.0,
+        "culture_name": "Сил"
+    },
+    {
+        "index_month_4": -0.02,
+        "index_month_5": 0.591,
+        "index_month_6": 0.235,
+        "index_month_7": 0.089,
+        "index_month_8": 0.059,
+        "elevation": 605.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.077,
+        "index_month_5": 0.006,
+        "index_month_6": -0.082,
+        "index_month_7": -0.117,
+        "index_month_8": -0.111,
+        "elevation": 606.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.056,
+        "index_month_5": -0.073,
+        "index_month_6": 0.102,
+        "index_month_7": -0.033,
+        "index_month_8": 0.223,
+        "elevation": 646.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.084,
+        "index_month_5": 0.192,
+        "index_month_6": -0.219,
+        "index_month_7": 0.365,
+        "index_month_8": 0.371,
+        "elevation": 657.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.062,
+        "index_month_5": 0.169,
+        "index_month_6": -0.211,
+        "index_month_7": 0.549,
+        "index_month_8": 0.183,
+        "elevation": 664.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.05,
+        "index_month_5": -0.077,
+        "index_month_6": 0.001,
+        "index_month_7": -0.201,
+        "index_month_8": 0.243,
+        "elevation": 696.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.068,
+        "index_month_5": 0.328,
+        "index_month_6": -0.112,
+        "index_month_7": -0.135,
+        "index_month_8": 0.101,
+        "elevation": 711.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.042,
+        "index_month_5": -0.318,
+        "index_month_6": -0.282,
+        "index_month_7": 0.223,
+        "index_month_8": -0.169,
+        "elevation": 717.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.005,
+        "index_month_5": -0.242,
+        "index_month_6": 0.3,
+        "index_month_7": 0.256,
+        "index_month_8": -0.017,
+        "elevation": 742.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": -0.028,
+        "index_month_5": 0.007,
+        "index_month_6": 0.066,
+        "index_month_7": 0.033,
+        "index_month_8": 0.028,
+        "elevation": 784.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.066,
+        "index_month_5": -0.107,
+        "index_month_6": 0.137,
+        "index_month_7": 0.076,
+        "index_month_8": -0.073,
+        "elevation": 625.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.043,
+        "index_month_5": -0.15,
+        "index_month_6": 0.224,
+        "index_month_7": null,
+        "index_month_8": -0.094,
+        "elevation": 1120.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.095,
+        "index_month_5": 0.286,
+        "index_month_6": 0.541,
+        "index_month_7": null,
+        "index_month_8": -0.125,
+        "elevation": 1115.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.065,
+        "index_month_5": 0.276,
+        "index_month_6": 0.095,
+        "index_month_7": null,
+        "index_month_8": -0.154,
+        "elevation": 1078.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.017,
+        "index_month_5": -0.028,
+        "index_month_6": 0.065,
+        "index_month_7": null,
+        "index_month_8": 0.099,
+        "elevation": 1130.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.042,
+        "index_month_5": -0.032,
+        "index_month_6": -0.098,
+        "index_month_7": null,
+        "index_month_8": -0.133,
+        "elevation": 1107.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.104,
+        "index_month_5": -0.087,
+        "index_month_6": 0.15,
+        "index_month_7": null,
+        "index_month_8": 0.178,
+        "elevation": 914.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.118,
+        "index_month_5": 0.137,
+        "index_month_6": -0.438,
+        "index_month_7": null,
+        "index_month_8": -0.21,
+        "elevation": 937.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.077,
+        "index_month_5": 0.136,
+        "index_month_6": 0.498,
+        "index_month_7": null,
+        "index_month_8": 0.179,
+        "elevation": 928.0,
+        "culture_name": "Соя"
+    },
+    {
+        "index_month_4": -0.099,
+        "index_month_5": -0.014,
+        "index_month_6": 0.158,
+        "index_month_7": null,
+        "index_month_8": 0.698,
+        "elevation": 785.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.069,
+        "index_month_5": -0.187,
+        "index_month_6": -0.011,
+        "index_month_7": null,
+        "index_month_8": 0.152,
+        "elevation": 907.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.015,
+        "index_month_5": 0.051,
+        "index_month_6": 0.046,
+        "index_month_7": null,
+        "index_month_8": -0.026,
+        "elevation": 1046.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.063,
+        "index_month_5": -0.093,
+        "index_month_6": 0.189,
+        "index_month_7": null,
+        "index_month_8": 0.103,
+        "elevation": 925.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.157,
+        "index_month_5": 0.169,
+        "index_month_6": 0.619,
+        "index_month_7": null,
+        "index_month_8": 0.535,
+        "elevation": 891.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.011,
+        "index_month_5": 0.013,
+        "index_month_6": 0.024,
+        "index_month_7": null,
+        "index_month_8": 0.053,
+        "elevation": 867.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.04,
+        "index_month_5": 0.099,
+        "index_month_6": -0.098,
+        "index_month_7": null,
+        "index_month_8": 0.242,
+        "elevation": 892.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.016,
+        "index_month_5": 0.034,
+        "index_month_6": 0.037,
+        "index_month_7": null,
+        "index_month_8": -0.053,
+        "elevation": 951.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.06,
+        "index_month_5": 0.083,
+        "index_month_6": 0.215,
+        "index_month_7": null,
+        "index_month_8": 0.26,
+        "elevation": 937.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.032,
+        "index_month_5": 0.126,
+        "index_month_6": -0.119,
+        "index_month_7": null,
+        "index_month_8": 0.286,
+        "elevation": 1030.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.06,
+        "index_month_5": -0.067,
+        "index_month_6": 0.001,
+        "index_month_7": null,
+        "index_month_8": 0.103,
+        "elevation": 1014.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.096,
+        "index_month_5": 0.197,
+        "index_month_6": 0.159,
+        "index_month_7": null,
+        "index_month_8": 0.122,
+        "elevation": 1078.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.017,
+        "index_month_5": 0.081,
+        "index_month_6": -0.105,
+        "index_month_7": null,
+        "index_month_8": -0.056,
+        "elevation": 1219.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.02,
+        "index_month_5": 0.017,
+        "index_month_6": 0.031,
+        "index_month_7": null,
+        "index_month_8": -0.019,
+        "elevation": 1110.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.011,
+        "index_month_5": 0.027,
+        "index_month_6": 0.077,
+        "index_month_7": null,
+        "index_month_8": 0.03,
+        "elevation": 1094.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.034,
+        "index_month_5": 0.056,
+        "index_month_6": 0.205,
+        "index_month_7": null,
+        "index_month_8": 0.06,
+        "elevation": 1094.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.006,
+        "index_month_5": 0.023,
+        "index_month_6": 0.031,
+        "index_month_7": null,
+        "index_month_8": 0.016,
+        "elevation": 879.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.006,
+        "index_month_5": -0.018,
+        "index_month_6": 0.004,
+        "index_month_7": null,
+        "index_month_8": 0.014,
+        "elevation": 868.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.095,
+        "index_month_5": 0.087,
+        "index_month_6": -0.369,
+        "index_month_7": null,
+        "index_month_8": 0.157,
+        "elevation": 1071.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.121,
+        "index_month_5": -0.104,
+        "index_month_6": 0.251,
+        "index_month_7": null,
+        "index_month_8": 0.115,
+        "elevation": 1077.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.061,
+        "index_month_5": -0.092,
+        "index_month_6": -0.292,
+        "index_month_7": null,
+        "index_month_8": -0.42,
+        "elevation": 1074.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.073,
+        "index_month_5": 0.204,
+        "index_month_6": 0.122,
+        "index_month_7": null,
+        "index_month_8": 0.109,
+        "elevation": 1077.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.026,
+        "index_month_5": 0.07,
+        "index_month_6": 0.137,
+        "index_month_7": null,
+        "index_month_8": 0.153,
+        "elevation": 1085.0,
+        "culture_name": "Соя"
+    },
+    {
+        "index_month_4": 0.06,
+        "index_month_5": 0.193,
+        "index_month_6": 0.105,
+        "index_month_7": null,
+        "index_month_8": 0.014,
+        "elevation": 1077.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": 0.046,
+        "index_month_5": 0.401,
+        "index_month_6": 0.372,
+        "index_month_7": null,
+        "index_month_8": 0.146,
+        "elevation": 1077.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": 0.009,
+        "index_month_5": 0.027,
+        "index_month_6": 0.039,
+        "index_month_7": null,
+        "index_month_8": -0.047,
+        "elevation": 985.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.024,
+        "index_month_5": -0.029,
+        "index_month_6": 0.033,
+        "index_month_7": null,
+        "index_month_8": 0.07,
+        "elevation": 977.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.006,
+        "index_month_5": 0.066,
+        "index_month_6": -0.048,
+        "index_month_7": null,
+        "index_month_8": 0.046,
+        "elevation": 982.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.007,
+        "index_month_5": -0.004,
+        "index_month_6": 0.009,
+        "index_month_7": null,
+        "index_month_8": 0.052,
+        "elevation": 985.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.066,
+        "index_month_5": -0.09,
+        "index_month_6": 0.071,
+        "index_month_7": null,
+        "index_month_8": 0.251,
+        "elevation": 982.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.089,
+        "index_month_5": 0.152,
+        "index_month_6": 0.135,
+        "index_month_7": null,
+        "index_month_8": 0.548,
+        "elevation": 979.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.043,
+        "index_month_5": 0.038,
+        "index_month_6": -0.098,
+        "index_month_7": null,
+        "index_month_8": 0.052,
+        "elevation": 1008.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.025,
+        "index_month_5": 0.024,
+        "index_month_6": 0.024,
+        "index_month_7": null,
+        "index_month_8": 0.021,
+        "elevation": 1024.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.012,
+        "index_month_5": 0.035,
+        "index_month_6": -0.02,
+        "index_month_7": null,
+        "index_month_8": 0.012,
+        "elevation": 1024.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.091,
+        "index_month_5": 0.424,
+        "index_month_6": -0.04,
+        "index_month_7": null,
+        "index_month_8": 0.054,
+        "elevation": 1012.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.027,
+        "index_month_5": -0.08,
+        "index_month_6": -0.003,
+        "index_month_7": null,
+        "index_month_8": -0.043,
+        "elevation": 1002.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.09,
+        "index_month_5": 0.298,
+        "index_month_6": -0.281,
+        "index_month_7": null,
+        "index_month_8": 0.07,
+        "elevation": 1004.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.067,
+        "index_month_5": 0.262,
+        "index_month_6": -0.035,
+        "index_month_7": null,
+        "index_month_8": -0.076,
+        "elevation": 1008.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.013,
+        "index_month_5": 0.014,
+        "index_month_6": -0.029,
+        "index_month_7": null,
+        "index_month_8": 0.008,
+        "elevation": 1024.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.008,
+        "index_month_5": -0.022,
+        "index_month_6": 0.008,
+        "index_month_7": null,
+        "index_month_8": 0.009,
+        "elevation": 1024.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.004,
+        "index_month_5": 0.018,
+        "index_month_6": 0.033,
+        "index_month_7": null,
+        "index_month_8": 0.012,
+        "elevation": 1024.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.046,
+        "index_month_5": 0.211,
+        "index_month_6": -0.041,
+        "index_month_7": null,
+        "index_month_8": -0.075,
+        "elevation": 1002.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.145,
+        "index_month_5": 0.36,
+        "index_month_6": 0.448,
+        "index_month_7": null,
+        "index_month_8": 0.047,
+        "elevation": 1083.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.05,
+        "index_month_5": -0.047,
+        "index_month_6": -0.137,
+        "index_month_7": null,
+        "index_month_8": -0.171,
+        "elevation": 1073.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.011,
+        "index_month_5": 0.065,
+        "index_month_6": 0.153,
+        "index_month_7": null,
+        "index_month_8": 0.044,
+        "elevation": 1527.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": 0.048,
+        "index_month_5": 0.015,
+        "index_month_6": 0.223,
+        "index_month_7": null,
+        "index_month_8": -0.125,
+        "elevation": 1559.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": 0.033,
+        "index_month_5": 0.21,
+        "index_month_6": 0.213,
+        "index_month_7": null,
+        "index_month_8": 0.152,
+        "elevation": 1571.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": 0.048,
+        "index_month_5": 0.217,
+        "index_month_6": -0.133,
+        "index_month_7": null,
+        "index_month_8": 0.033,
+        "elevation": 1563.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": 0.153,
+        "index_month_5": 0.124,
+        "index_month_6": 0.071,
+        "index_month_7": null,
+        "index_month_8": 0.6,
+        "elevation": 1539.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": -0.031,
+        "index_month_5": 0.086,
+        "index_month_6": -0.164,
+        "index_month_7": null,
+        "index_month_8": 0.006,
+        "elevation": 1544.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": -0.023,
+        "index_month_5": 0.033,
+        "index_month_6": -0.086,
+        "index_month_7": null,
+        "index_month_8": -0.044,
+        "elevation": 1497.0,
+        "culture_name": "Картофель"
+    },
+    {
+        "index_month_4": 0.018,
+        "index_month_5": null,
+        "index_month_6": 0.079,
+        "index_month_7": 0.096,
+        "index_month_8": 0.063,
+        "elevation": 751.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.009,
+        "index_month_5": null,
+        "index_month_6": 0.055,
+        "index_month_7": -0.019,
+        "index_month_8": -0.016,
+        "elevation": 751.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.019,
+        "index_month_5": null,
+        "index_month_6": 0.029,
+        "index_month_7": 0.022,
+        "index_month_8": -0.024,
+        "elevation": 766.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.009,
+        "index_month_5": null,
+        "index_month_6": 0.006,
+        "index_month_7": 0.043,
+        "index_month_8": 0.026,
+        "elevation": 742.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.031,
+        "index_month_5": null,
+        "index_month_6": -0.056,
+        "index_month_7": 0.097,
+        "index_month_8": -0.08,
+        "elevation": 735.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": -0.026,
+        "index_month_5": null,
+        "index_month_6": 0.059,
+        "index_month_7": 0.14,
+        "index_month_8": 0.153,
+        "elevation": 721.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.011,
+        "index_month_5": null,
+        "index_month_6": 0.032,
+        "index_month_7": 0.054,
+        "index_month_8": 0.022,
+        "elevation": 720.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.016,
+        "index_month_5": null,
+        "index_month_6": 0.123,
+        "index_month_7": -0.082,
+        "index_month_8": 0.138,
+        "elevation": 720.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.052,
+        "index_month_5": null,
+        "index_month_6": 0.21,
+        "index_month_7": -0.1,
+        "index_month_8": -0.022,
+        "elevation": 672.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.096,
+        "index_month_5": null,
+        "index_month_6": 0.111,
+        "index_month_7": -0.181,
+        "index_month_8": 0.051,
+        "elevation": 676.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.018,
+        "index_month_5": null,
+        "index_month_6": 0.216,
+        "index_month_7": 0.181,
+        "index_month_8": 0.119,
+        "elevation": 707.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.071,
+        "index_month_5": null,
+        "index_month_6": 0.377,
+        "index_month_7": 0.237,
+        "index_month_8": 0.501,
+        "elevation": 685.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.198,
+        "index_month_5": null,
+        "index_month_6": -0.229,
+        "index_month_7": -0.063,
+        "index_month_8": 0.125,
+        "elevation": 692.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.042,
+        "index_month_5": null,
+        "index_month_6": 0.416,
+        "index_month_7": 0.314,
+        "index_month_8": -0.317,
+        "elevation": 660.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": -0.075,
+        "index_month_5": null,
+        "index_month_6": 0.408,
+        "index_month_7": -0.336,
+        "index_month_8": 0.377,
+        "elevation": 660.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "index_month_4": -0.17,
+        "index_month_5": null,
+        "index_month_6": 0.039,
+        "index_month_7": 0.14,
+        "index_month_8": -0.146,
+        "elevation": 685.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.054,
+        "index_month_5": 0.369,
+        "index_month_6": 0.295,
+        "index_month_7": -0.191,
+        "index_month_8": 0.195,
+        "elevation": 742.0,
+        "culture_name": "Пшеница"
+    },
+    {
+        "index_month_4": -0.09,
+        "index_month_5": 0.154,
+        "index_month_6": 0.196,
+        "index_month_7": 0.773,
+        "index_month_8": 0.224,
+        "elevation": 746.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.037,
+        "index_month_5": 0.265,
+        "index_month_6": 0.376,
+        "index_month_7": -0.068,
+        "index_month_8": 0.07,
+        "elevation": 783.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.021,
+        "index_month_5": -0.018,
+        "index_month_6": 0.02,
+        "index_month_7": -0.077,
+        "index_month_8": 0.031,
+        "elevation": 774.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.043,
+        "index_month_5": 0.338,
+        "index_month_6": -0.256,
+        "index_month_7": 0.181,
+        "index_month_8": 0.041,
+        "elevation": 756.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.076,
+        "index_month_5": -0.069,
+        "index_month_6": 0.113,
+        "index_month_7": null,
+        "index_month_8": 0.443,
+        "elevation": 965.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.004,
+        "index_month_5": 0.007,
+        "index_month_6": 0.016,
+        "index_month_7": null,
+        "index_month_8": -0.015,
+        "elevation": 1001.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.107,
+        "index_month_5": -0.17,
+        "index_month_6": 0.025,
+        "index_month_7": null,
+        "index_month_8": 0.196,
+        "elevation": 1001.0,
+        "culture_name": "Кукуруза"
+    },
+    {
+        "index_month_4": 0.067,
+        "index_month_5": 0.076,
+        "index_month_6": 0.246,
+        "index_month_7": null,
+        "index_month_8": 0.43,
+        "elevation": 1001.0,
+        "culture_name": "Свекла"
+    },
+    {
+        "index_month_4": 0.058,
+        "index_month_5": -0.223,
+        "index_month_6": 0.284,
+        "index_month_7": null,
+        "index_month_8": 0.187,
+        "elevation": 770.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.013,
+        "index_month_5": 0.042,
+        "index_month_6": 0.054,
+        "index_month_7": null,
+        "index_month_8": 0.035,
+        "elevation": 763.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.028,
+        "index_month_5": 0.006,
+        "index_month_6": 0.064,
+        "index_month_7": null,
+        "index_month_8": 0.037,
+        "elevation": 940.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": -0.059,
+        "index_month_5": 0.132,
+        "index_month_6": 0.147,
+        "index_month_7": null,
+        "index_month_8": 0.061,
+        "elevation": 940.0,
+        "culture_name": "Ячмень"
+    },
+    {
+        "index_month_4": 0.132,
+        "index_month_5": -0.311,
+        "index_month_6": 0.01,
+        "index_month_7": null,
+        "index_month_8": 0.46,
+        "elevation": 1147.0,
+        "culture_name": "Свекла"
+    }
+]

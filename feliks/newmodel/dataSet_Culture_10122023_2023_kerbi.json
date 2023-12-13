@@ -1,0 +1,562 @@
+[
+    {
+        "contour_id": 17092,
+        "index_month_4": 0.052,
+        "index_month_5": 0.074,
+        "index_month_6": 0.052,
+        "index_month_7": 0.037,
+        "index_month_8": 0.019,
+        "elevation": 623.0,
+        "culture_name": "Вика"
+    },
+    {
+        "contour_id": 17093,
+        "index_month_4": 0.42,
+        "index_month_5": 0.506,
+        "index_month_6": 0.194,
+        "index_month_7": 0.134,
+        "index_month_8": 0.133,
+        "elevation": 628.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17094,
+        "index_month_4": 0.136,
+        "index_month_5": 0.15,
+        "index_month_6": 0.054,
+        "index_month_7": 0.04,
+        "index_month_8": 0.04,
+        "elevation": 629.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17095,
+        "index_month_4": 0.126,
+        "index_month_5": 0.137,
+        "index_month_6": 0.044,
+        "index_month_7": 0.033,
+        "index_month_8": 0.034,
+        "elevation": 625.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17096,
+        "index_month_4": 0.294,
+        "index_month_5": 0.326,
+        "index_month_6": 0.117,
+        "index_month_7": 0.081,
+        "index_month_8": 0.078,
+        "elevation": 629.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17097,
+        "index_month_4": 0.101,
+        "index_month_5": 0.111,
+        "index_month_6": 0.04,
+        "index_month_7": 0.029,
+        "index_month_8": 0.029,
+        "elevation": 625.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17098,
+        "index_month_4": 0.156,
+        "index_month_5": 0.241,
+        "index_month_6": 0.104,
+        "index_month_7": 0.062,
+        "index_month_8": 0.061,
+        "elevation": 629.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17099,
+        "index_month_4": 0.342,
+        "index_month_5": 0.432,
+        "index_month_6": 0.164,
+        "index_month_7": 0.095,
+        "index_month_8": 0.065,
+        "elevation": 621.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17100,
+        "index_month_4": 0.294,
+        "index_month_5": 0.325,
+        "index_month_6": 0.344,
+        "index_month_7": 0.14,
+        "index_month_8": 0.308,
+        "elevation": 630.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "contour_id": 17101,
+        "index_month_4": 0.394,
+        "index_month_5": 0.466,
+        "index_month_6": 0.175,
+        "index_month_7": 0.058,
+        "index_month_8": 0.07,
+        "elevation": 621.0,
+        "culture_name": "Potato"
+    },
+    {
+        "contour_id": 17102,
+        "index_month_4": 0.119,
+        "index_month_5": 0.149,
+        "index_month_6": 0.051,
+        "index_month_7": 0.038,
+        "index_month_8": 0.038,
+        "elevation": 631.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17103,
+        "index_month_4": 0.126,
+        "index_month_5": 0.106,
+        "index_month_6": 0.068,
+        "index_month_7": 0.048,
+        "index_month_8": 0.052,
+        "elevation": 629.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17104,
+        "index_month_4": 0.095,
+        "index_month_5": 0.054,
+        "index_month_6": 0.044,
+        "index_month_7": 0.036,
+        "index_month_8": 0.039,
+        "elevation": 637.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "contour_id": 17105,
+        "index_month_4": 0.067,
+        "index_month_5": 0.193,
+        "index_month_6": 0.566,
+        "index_month_7": 0.436,
+        "index_month_8": 0.134,
+        "elevation": 618.0,
+        "culture_name": "Potato"
+    },
+    {
+        "contour_id": 17106,
+        "index_month_4": 0.037,
+        "index_month_5": 0.229,
+        "index_month_6": 0.248,
+        "index_month_7": 0.128,
+        "index_month_8": 0.075,
+        "elevation": 617.0,
+        "culture_name": "Неизвестная Культура"
+    },
+    {
+        "contour_id": 17107,
+        "index_month_4": 0.206,
+        "index_month_5": 0.192,
+        "index_month_6": 0.082,
+        "index_month_7": 0.054,
+        "index_month_8": 0.061,
+        "elevation": 618.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17108,
+        "index_month_4": 0.185,
+        "index_month_5": 0.084,
+        "index_month_6": 0.102,
+        "index_month_7": 0.394,
+        "index_month_8": 0.4,
+        "elevation": 617.0,
+        "culture_name": "Сорго"
+    },
+    {
+        "contour_id": 17109,
+        "index_month_4": 0.017,
+        "index_month_5": 0.026,
+        "index_month_6": 0.015,
+        "index_month_7": 0.011,
+        "index_month_8": 0.009,
+        "elevation": 620.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17110,
+        "index_month_4": 0.048,
+        "index_month_5": 0.054,
+        "index_month_6": 0.029,
+        "index_month_7": 0.02,
+        "index_month_8": 0.022,
+        "elevation": 615.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17111,
+        "index_month_4": 0.033,
+        "index_month_5": 0.063,
+        "index_month_6": 0.185,
+        "index_month_7": 0.266,
+        "index_month_8": 0.274,
+        "elevation": 617.0,
+        "culture_name": "Соя"
+    },
+    {
+        "contour_id": 17112,
+        "index_month_4": 0.17,
+        "index_month_5": 0.296,
+        "index_month_6": 0.131,
+        "index_month_7": 0.082,
+        "index_month_8": 0.2,
+        "elevation": 615.0,
+        "culture_name": "Сидераты"
+    },
+    {
+        "contour_id": 17113,
+        "index_month_4": 0.071,
+        "index_month_5": 0.437,
+        "index_month_6": 0.357,
+        "index_month_7": 0.067,
+        "index_month_8": 0.068,
+        "elevation": 623.0,
+        "culture_name": "Potato"
+    },
+    {
+        "contour_id": 17114,
+        "index_month_4": 0.071,
+        "index_month_5": 0.437,
+        "index_month_6": 0.357,
+        "index_month_7": 0.067,
+        "index_month_8": 0.068,
+        "elevation": 623.0,
+        "culture_name": "Эспарцет"
+    },
+    {
+        "contour_id": 17115,
+        "index_month_4": 0.395,
+        "index_month_5": 0.47,
+        "index_month_6": 0.216,
+        "index_month_7": 0.075,
+        "index_month_8": 0.099,
+        "elevation": 623.0,
+        "culture_name": "Вика"
+    },
+    {
+        "contour_id": 17116,
+        "index_month_4": 0.395,
+        "index_month_5": 0.47,
+        "index_month_6": 0.216,
+        "index_month_7": 0.075,
+        "index_month_8": 0.099,
+        "elevation": 623.0,
+        "culture_name": "Potato"
+    },
+    {
+        "contour_id": 17117,
+        "index_month_4": 0.032,
+        "index_month_5": 0.069,
+        "index_month_6": 0.065,
+        "index_month_7": 0.088,
+        "index_month_8": 0.046,
+        "elevation": 623.0,
+        "culture_name": "Неизвестная Культура"
+    },
+    {
+        "contour_id": 17118,
+        "index_month_4": 0.044,
+        "index_month_5": 0.122,
+        "index_month_6": 0.118,
+        "index_month_7": 0.159,
+        "index_month_8": 0.073,
+        "elevation": 623.0,
+        "culture_name": "Неизвестная Культура"
+    },
+    {
+        "contour_id": 17119,
+        "index_month_4": 0.012,
+        "index_month_5": 0.055,
+        "index_month_6": 0.058,
+        "index_month_7": 0.049,
+        "index_month_8": 0.012,
+        "elevation": 623.0,
+        "culture_name": "Potato"
+    },
+    {
+        "contour_id": 17120,
+        "index_month_4": 0.011,
+        "index_month_5": 0.025,
+        "index_month_6": 0.021,
+        "index_month_7": 0.013,
+        "index_month_8": 0.005,
+        "elevation": 623.0,
+        "culture_name": "Potato"
+    },
+    {
+        "contour_id": 17121,
+        "index_month_4": 0.05,
+        "index_month_5": 0.108,
+        "index_month_6": 0.199,
+        "index_month_7": 0.178,
+        "index_month_8": 0.107,
+        "elevation": 623.0,
+        "culture_name": "Морковь"
+    },
+    {
+        "contour_id": 17122,
+        "index_month_4": 0.431,
+        "index_month_5": 0.528,
+        "index_month_6": 0.203,
+        "index_month_7": 0.142,
+        "index_month_8": 0.089,
+        "elevation": 621.0,
+        "culture_name": "Морковь"
+    },
+    {
+        "contour_id": 17123,
+        "index_month_4": 0.076,
+        "index_month_5": 0.481,
+        "index_month_6": 0.547,
+        "index_month_7": 0.366,
+        "index_month_8": 0.166,
+        "elevation": 620.0,
+        "culture_name": "Potato"
+    },
+    {
+        "contour_id": 17124,
+        "index_month_4": 0.072,
+        "index_month_5": 0.414,
+        "index_month_6": 0.55,
+        "index_month_7": 0.397,
+        "index_month_8": 0.126,
+        "elevation": 620.0,
+        "culture_name": "Potato"
+    },
+    {
+        "contour_id": 17125,
+        "index_month_4": 0.018,
+        "index_month_5": 0.116,
+        "index_month_6": 0.155,
+        "index_month_7": 0.123,
+        "index_month_8": 0.047,
+        "elevation": 620.0,
+        "culture_name": "Potato"
+    },
+    {
+        "contour_id": 17126,
+        "index_month_4": 0.059,
+        "index_month_5": 0.403,
+        "index_month_6": 0.48,
+        "index_month_7": 0.434,
+        "index_month_8": 0.16,
+        "elevation": 620.0,
+        "culture_name": "Potato"
+    },
+    {
+        "contour_id": 17127,
+        "index_month_4": 0.071,
+        "index_month_5": 0.378,
+        "index_month_6": 0.541,
+        "index_month_7": 0.359,
+        "index_month_8": 0.074,
+        "elevation": 620.0,
+        "culture_name": "Potato"
+    },
+    {
+        "contour_id": 17128,
+        "index_month_4": 0.01,
+        "index_month_5": 0.047,
+        "index_month_6": 0.061,
+        "index_month_7": 0.051,
+        "index_month_8": 0.02,
+        "elevation": 621.0,
+        "culture_name": "Potato"
+    },
+    {
+        "contour_id": 17129,
+        "index_month_4": 0.022,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.028,
+        "elevation": 1631.0,
+        "culture_name": "Рапс"
+    },
+    {
+        "contour_id": 17130,
+        "index_month_4": 0.051,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.301,
+        "elevation": 1631.0,
+        "culture_name": "Potato"
+    },
+    {
+        "contour_id": 17131,
+        "index_month_4": 0.077,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.147,
+        "elevation": 1648.0,
+        "culture_name": "Тритикале"
+    },
+    {
+        "contour_id": 17132,
+        "index_month_4": 0.105,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.118,
+        "elevation": 1633.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17133,
+        "index_month_4": 0.058,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.107,
+        "elevation": 1665.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17134,
+        "index_month_4": 0.033,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.058,
+        "elevation": 1627.0,
+        "culture_name": "Эспарцет"
+    },
+    {
+        "contour_id": 17135,
+        "index_month_4": 0.009,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.014,
+        "elevation": 1631.0,
+        "culture_name": "Сидераты"
+    },
+    {
+        "contour_id": 17136,
+        "index_month_4": 0.008,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.021,
+        "elevation": 1632.0,
+        "culture_name": "Эспарцет"
+    },
+    {
+        "contour_id": 17137,
+        "index_month_4": 0.068,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.337,
+        "elevation": 1635.0,
+        "culture_name": "Донник"
+    },
+    {
+        "contour_id": 17138,
+        "index_month_4": 0.143,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.168,
+        "elevation": 1640.0,
+        "culture_name": "Эспарцет"
+    },
+    {
+        "contour_id": 17139,
+        "index_month_4": 0.061,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.046,
+        "elevation": 1665.0,
+        "culture_name": "Люцерна"
+    },
+    {
+        "contour_id": 17140,
+        "index_month_4": 0.022,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.028,
+        "elevation": 1631.0,
+        "culture_name": "Сидераты"
+    },
+    {
+        "contour_id": 17141,
+        "index_month_4": 0.129,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.1,
+        "elevation": 1659.0,
+        "culture_name": "Эспарцет"
+    },
+    {
+        "contour_id": 17142,
+        "index_month_4": 0.071,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.047,
+        "elevation": 1641.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17143,
+        "index_month_4": 0.104,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.065,
+        "elevation": 1636.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17144,
+        "index_month_4": 0.084,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.054,
+        "elevation": 1640.0,
+        "culture_name": "Эспарцет"
+    },
+    {
+        "contour_id": 17145,
+        "index_month_4": 0.083,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.041,
+        "elevation": 1642.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17146,
+        "index_month_4": 0.102,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": 0.063,
+        "elevation": 1641.0,
+        "culture_name": "Wheat"
+    },
+    {
+        "contour_id": 17152,
+        "index_month_4": 0.043,
+        "index_month_5": 0.0,
+        "index_month_6": 0.0,
+        "index_month_7": 0.0,
+        "index_month_8": null,
+        "elevation": 1631.0,
+        "culture_name": "Донник"
+    }
+]
